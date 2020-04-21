@@ -9,6 +9,7 @@ class Student
     @grade = grade
   end
   
-  def .
+  def self.create_table
+  end
   
 end
